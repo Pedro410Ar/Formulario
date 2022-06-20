@@ -1,0 +1,49 @@
+body{
+    background: linear-gradient(rgb(196, 173, 173),rgb(245, 245, 205), rgb(235, 151, 151));
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+header{
+    text-align: center;
+}
+
+.imagen-portada{
+    width: 100%;
+    height: 550px;
+    margin: 0px;
+}
+
+main{
+    width: 100%;
+    height: 700px;
+}
+
+.formulario-registro{
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: 150px;
+}
+
+.campo-form{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.boton-enviar{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: rgb(230, 220, 227);
+
+}
+
+footer{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    
+}
